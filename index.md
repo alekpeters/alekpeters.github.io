@@ -13,4 +13,5 @@ This is a link to a repository containing products I have created using R:
 
 ---
 ![W&M Mason School Logo](/pics/mason_logo.jpg)
+
 ---
