@@ -4,6 +4,7 @@ title: TimeSeries Decomposition
 description: Course Content
 
 ---
+## Time Series Decomposition
 
 ### Here is a Time Series Decomposition Example I used in my CTBA course:
 
