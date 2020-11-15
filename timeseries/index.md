@@ -1,4 +1,5 @@
 ---
+
 title: TimeSeries Decomposition
 description: Course Content
 
@@ -25,6 +26,7 @@ Download:
 -[Time Series Decomposition Assignment (ipynb)](M3TimeSeriesDecompositionAssignment.ipynb)
 
 ---
+
 [Home Page](https://alekpeters.github.io/)
 
 ---
