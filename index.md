@@ -3,8 +3,6 @@ title: Alek Peters Portfolio
 description: This is my personal portfolio
 ---
 
-![W&M Mason School Logo](/pics/mason_logo.jpg)
-
 This is content from my Competing Through Business Analytics Course:
 
 -[Time Series Decomposition](/timeseries/index.md)
@@ -12,3 +10,7 @@ This is content from my Competing Through Business Analytics Course:
 This is a link to a repository containing products I have created using R:
 
 -[R Portfolio](https://github.com/alekpeters/R_Portfolio)
+
+---
+![W&M Mason School Logo](/pics/mason_logo.jpg)
+---
