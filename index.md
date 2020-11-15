@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Markdown
+description: This is a brief introduction to the Markdown language used in this website.
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
