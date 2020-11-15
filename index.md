@@ -1,7 +1,7 @@
 ---
 
-title: Alek Peters Portfolio
-description: This is my personal portfolio
+  title: Alek Peters Portfolio
+  description: This is my personal portfolio
 
 ---
 
