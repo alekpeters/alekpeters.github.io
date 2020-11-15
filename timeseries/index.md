@@ -13,7 +13,7 @@ View in browser:
 
 Download:
 
--[Time Series Decompostion (ipynb)](TimeSeriesDecompostion.ipynb)
+-[Time Series Decompostion (ipynb)](TimeSeriesDecomposition.ipynb)
 
 ### Here is a Time Series Decomposition Assignment I created:
 
