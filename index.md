@@ -1,4 +1,5 @@
 ---
+
 title: Alek Peters Portfolio
 description: This is my personal portfolio
 
@@ -13,6 +14,7 @@ description: This is my personal portfolio
 -[R Portfolio](https://github.com/alekpeters/R_Portfolio)
 
 ---
+
 ![W&M Mason School Logo](/pics/mason_logo.jpg)
 
 ---
