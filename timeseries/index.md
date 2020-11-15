@@ -22,3 +22,7 @@ View in browser:
 Download:
 
 -[Time Series Decomposition Assignment (ipynb)](M3TimeSeriesDecompositionAssignment.ipynb)
+
+---
+[Home Page](https://alekpeters.github.io/)
+---
