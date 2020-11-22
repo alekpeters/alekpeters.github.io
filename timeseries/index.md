@@ -6,7 +6,7 @@ description: Course Content
 ---
 ## Time Series Decomposition
 
-### Here is an analytics presentation I recorded on Public and Private Construction Spending Data
+### Here is a presentation I recorded on Public and Private Construction Spending Data:
 
 -[![M4 Analytics Presentation (mp4)](M4AnalyticsPresentation.jpg)](M4AnalyticsPresentation.mp4)
 
