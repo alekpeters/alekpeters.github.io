@@ -8,7 +8,7 @@ description: Course Content
 
 ### Here is an analytics presentation I recorded on Public and Private Construction Spending Data
 
--[![M4 Analytics Presentation (mp4)] (M4 Analytics Presentation.jpg)] (M4 Analytics Presentation.mp4)
+-[![M4 Analytics Presentation (mp4)](M4 Analytics Presentation.jpg)](M4 Analytics Presentation.mp4)
 
 ### Here is the Time Series Decomposition Example I used in my CTBA course:
 
